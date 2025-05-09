@@ -1,4 +1,5 @@
 export interface Product {
+  availableSizes: any;
   id: string;
   name: string;
   price: number;
